@@ -1,3 +1,5 @@
 streamlit
-pymongo[srv]
+face-recognition
+numpy
+pymongo
 Pillow
